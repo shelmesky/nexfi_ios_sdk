@@ -1,0 +1,30 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - IQKeyboardManager (4.0.3)
+  - JGProgressHUD (1.3.2)
+  - Masonry (1.0.0)
+  - MJExtension (3.0.10)
+  - MJRefresh (2.4.12)
+  - XMChatBar (1.3.0):
+    - Masonry
+
+DEPENDENCIES:
+  - FMDB (~> 2.6.2)
+  - IQKeyboardManager (~> 4.0.1)
+  - JGProgressHUD (~> 1.3.1)
+  - MJExtension (~> 3.0.10)
+  - MJRefresh (~> 2.4.7)
+  - XMChatBar (~> 1.3.0)
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  IQKeyboardManager: be9695ffc5a52077deb4847608f338771022d6d1
+  JGProgressHUD: ccac0ead9b771eac0ebcc2b0800efd7f1e1784dc
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  XMChatBar: 348941c9622f17fdbb2627e6013dd87a24a10428
+
+COCOAPODS: 0.39.0
